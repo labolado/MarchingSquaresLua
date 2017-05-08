@@ -2,10 +2,6 @@ Ported from https://github.com/sakri/MarchingSquaresJS/blob/master/MarchingSquar
  
 Marching squares outlines blobs of non-transparent pixels inside a bitmap.
 
-This is a straight forward port from this excellent implementation by Phill Spiess:
-
-http://devblog.phillipspiess.com/2010/02/23/better-know-an-algorithm-1-marching-squares/
-
 
 Usage:
 
